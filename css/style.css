@@ -1,0 +1,39 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1, h2{
+    font-family: 'Bebas Neue', cursive;
+}
+h1, h2, h3, h4, h5, h6{
+    color: #363958;
+}
+p{
+    color: #3E3E3E;
+}
+.nike-react-color{
+    color: #FA804C;
+}
+.nike-btn{
+    background-color: #3D4FF3;
+    width: 170px;
+    height: 60px;
+}
+.pro-bg{
+    background-color: #F1F1F1;;
+}
+section{
+    margin-bottom: 80px;
+}
+/* --------------- */
+/* header area */
+/* --------------- */
+.header{
+    padding-top: 20px ;
+    padding-bottom: 40px ;
+    margin-bottom: 40px ;
+    background-color: #FFF9F4;
+}
+.banner-headding {
+    font-size: 80px;
+    line-height: 96px;
+}
